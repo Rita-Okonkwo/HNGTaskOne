@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HNGTaskOne</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="join_now">JOIN NOW</string>
+    <string name="have_an_account">HAVE AN ACCOUNT?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="don_t_have_an_account">DON\'T HAVE AN ACCOUNT?</string>
+</resources>
